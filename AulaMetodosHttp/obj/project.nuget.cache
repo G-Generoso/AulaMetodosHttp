@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LK8B0w7YYMI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\324119278\\Documents\\AulaMetodosHttp\\AulaMetodosHttp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\324119278\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.4\\microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
+    "C:\\Users\\324119278\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
